@@ -7,6 +7,12 @@
 -Analyze requirements, propose recommendations for software improvement, and collaborate on solutions to implementation issues with team mates<br>
 -Develop code for testability, adhering to modern architectural standards, utilizing automated testing and continuous integration to deliver with confidence
 
+**Software Developer | DAS Software** &emsp; *February 2017 - Current*<br>
+`JavaScript`, `Python`, `C#`, `MongoDB`, `.NET Core`<br>
+-Collaborate with a remote team on multiple software projects<br>
+-Engage with customers to discuss ongoing and complete development and respond to feedback when given<br>
+-Develop solutions for projects at various different points of the product lifecycle
+
 **Intern | CCL Branding** &emsp; *May 2015 - August 2015*<br>
 `HTML`, `CSS`, `JavaScript`, `SQL`, `Python`<br>
 -Lead a team of interns to conceptualize, develop, and market a social media aggregation website<br>
